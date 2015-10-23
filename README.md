@@ -7,9 +7,9 @@
 [rsh@sensor1 opt]$ cd /opt/etpro_bro
 ````
 
-#####Grab __load__.bro and etpro_intel.bro from the EmergingThreats github at https://github.com/EmergingThreats/bro.
+#####Grab \_\_load\_\_.bro and etpro_intel.bro from the EmergingThreats github at https://github.com/EmergingThreats/bro.
 
-__load__.bro is a file that bro requires to know which .bro script in this
+\_\_load\_\_.bro is a file that bro requires to know which .bro script in this
 directory to load.
 
 etpro_intel.bro defines which reputation list categories you would like to use on your sensors. Simply uncomment the
